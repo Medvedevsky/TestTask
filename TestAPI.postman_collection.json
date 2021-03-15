@@ -1,0 +1,30 @@
+{
+	"info": {
+		"_postman_id": "f88130f8-7f3b-40f2-9d14-5cd291c3e1bf",
+		"name": "TestAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:5000/api/TextLine",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/TextLine",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"TextLine"
+					]
+				},
+				"description": "TestApi"
+			},
+			"response": []
+		}
+	]
+}
