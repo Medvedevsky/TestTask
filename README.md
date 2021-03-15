@@ -15,7 +15,7 @@ public ActionResult<IEnumerable<string>> Get()
 }
 ``` 
 
-###  TextLineService - сервис хранящий имеющий метод Data:
+###  TextLineService - сервис хранящий метод Data:
 
 Метод Data - возвращает список данных 
 
